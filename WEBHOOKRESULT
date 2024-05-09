@@ -1,0 +1,18 @@
+{
+    "blockHash": "0x41c394194ea163ef1b8203380cc675169384bc0dc35330db082d48aa95600c61",
+    "symbol": "USDT",
+    "amount": "393.163265",
+    "tokenId": "",
+    "txId": "0xd2ff232758c0e98383fa2ce51aacb6a4895a85bdd7fda0307c749c0715f176ec",
+    "methodId": "",
+    "transactionTime": "1714961207000",
+    "trackerId": 187163,
+    "tokenContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "from": "0x70bdfc32ceae7b3789c2d04ac09ff1beed21d942",
+    "to": "0x3d55ccb2a943d88d39dd2e62daf767c69fd0179f",
+    "event": "tokenTransfer",
+    "operation": "",
+    "chainShortName": "eth",
+    "height": "19807958",
+    "status": "success"
+}
